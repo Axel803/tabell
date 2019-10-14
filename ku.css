@@ -1,0 +1,20 @@
+table, td ,td{
+	border: px solid black;
+	border-collapse: collapse;	
+}	
+td.blå{
+	background-color: blue;
+}
+td.röd{
+	background-color: red;
+} 
+td.svart{
+	background-color:black;
+}
+td.gul{
+	background-color:yellow;
+}
+td.grön{
+	background-color:green;
+	
+}
